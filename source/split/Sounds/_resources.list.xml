@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="음악" type="RESOURCE"/>
+  <resource name="적군죽는" type="RESOURCE"/>
+  <resource name="자동차파괴되는" type="RESOURCE"/>
+</resources>

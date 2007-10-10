@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="로딩" type="RESOURCE"/>
+  <resource name="1탄" type="RESOURCE"/>
+  <resource name="2탄" type="RESOURCE"/>
+  <resource name="만드는중" type="RESOURCE"/>
+  <resource name="3탄" type="RESOURCE"/>
+  <resource name="4탄" type="RESOURCE"/>
+  <resource name="마지막" type="RESOURCE"/>
+</resources>
